@@ -1,4 +1,2 @@
 config:
   info: spring-cloud-config-test
-server:
-  port: 8002
